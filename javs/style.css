@@ -1,0 +1,83 @@
+body {
+  font-family: "Edu SA Beginner", cursive;
+}
+img {
+  max-width: 80%;
+  margin: 45px 30px 0 50px;
+}
+h1 {
+  display: inline;
+  margin-right: 25px;
+  font-size: 38px;
+  font-weight: 600;
+  color: #2f2e41;
+}
+#button {
+  border: none;
+  background-color: #fff;
+}
+#current {
+  text-decoration: double;
+  border-width: 3px;
+  border-color: #6c63ff;
+  background-color: #fff;
+  background-color: #6b63ff16;
+  padding: 5px;
+  border-radius: 15%;
+  display: inline;
+  margin: 0 auto;
+}
+h2 {
+  font-size: 26px;
+  margin-bottom: 55px;
+  font-weight: 600;
+  color: #2f2e41;
+  margin-bottom: 20px;
+}
+
+h3 {
+  color: #6c63ff;
+  margin-bottom: 15px;
+}
+i {
+  font-size: 22px;
+}
+ul {
+  display: inline;
+  margin: 30 auto 0;
+  list-style-type: none;
+}
+.shown {
+  display: inline;
+}
+.celfar {
+  font-size: 20px;
+  padding: 0;
+}
+
+#proper {
+  margin-bottom: 10;
+  padding-bottom: 0;
+}
+.box {
+  margin: 150px auto;
+  width: 800px;
+  height: 310px;
+}
+.icons {
+  display: block;
+  margin: 0 auto 10px auto;
+  width: 30px;
+  height: 30px;
+}
+form {
+  display: inline;
+}
+*,
+::after,
+::before {
+  box-sizing: unset;
+}
+.days {
+  text-align: center;
+}
